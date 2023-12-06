@@ -8,6 +8,7 @@ composer
 ## ⭐ Databases
 types of databases, schema, basic SQL
 how to connect to a db with php
+crud operations
 
 ## ⭐ MVC concept
 project 
@@ -16,5 +17,6 @@ project
 git, github, terminals
 web protocols, methods, networking
 
-
+## ⭐ Laravel
+structure of framework...
 
