@@ -4,6 +4,7 @@
 methods, classes, interface, inheritance, traits, objects...
 json 
 composer
+some data structures and algorithms
 
 ## ⭐ Databases
 types of databases, schema, basic SQL
@@ -17,6 +18,7 @@ project
 git, github, terminals
 web protocols, methods, networking
 
+## ⭐ before Laravel, some data structures and algorithms
 ## ⭐ Laravel
 structure of framework...
 
