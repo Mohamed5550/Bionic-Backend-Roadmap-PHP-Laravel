@@ -2,7 +2,7 @@
   Bionic Backend Roadmap PHP-Laravel
 </h1>
 <p align="center">
-  <img src="https://github.com/SandyEwais/CAT-Backend-Laravel-Roadmap/blob/master/images/3965c91750f5af04abe7e8654f85739aaa.png" />
+  <img src="https://github.com/Mohamed5550/Bionic-Backend-Roadmap-PHP-Laravel/blob/main/3965c91750f5af04abe7e8654f85739aaa.png" />
 </p>
 
 ## ⭐ Preface
