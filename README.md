@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   Bionic Backend Roadmap PHP-Laravel
-</p>
+</h1>
 <p align="center">
   <img src="https://github.com/SandyEwais/CAT-Backend-Laravel-Roadmap/blob/master/images/3965c91750f5af04abe7e8654f85739aaa.png" />
 </p>
